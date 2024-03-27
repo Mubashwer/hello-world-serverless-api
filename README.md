@@ -4,7 +4,7 @@ This is an extremely minimal skeleton of a dotnet serverless API which can be de
 
 - adapted from ASP.NET Core Minimal API Serverless Application AWS template
 - uses AWS Lambda exposed through Amazon API Gateway
-- _Written for learning purposes_
+- _Written for learning CDKTF_
 
 ## Prequisites
 
